@@ -3,3 +3,4 @@ Poire
 Mandarine
 Cerise
 Noix
+Fraise
