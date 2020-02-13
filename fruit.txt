@@ -1,3 +1,5 @@
 Pomme 
 Poire
 Mandarine
+Cerise
+Noix
